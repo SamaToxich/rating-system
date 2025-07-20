@@ -1,4 +1,4 @@
-package com.restaurant.rating_system;
+package com.restaurant.rating;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
